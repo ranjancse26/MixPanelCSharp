@@ -2,6 +2,17 @@
 
 MixPanelCSharp is a Java Port of Mixpanel API Client.
 
+## Setup
+
+Create an account in Mixpanel - https://mixpanel.com and set the below keys in the MixPanelCsharpDemo App
+
+```
+<appSettings>
+    <add key="PROJECT_TOKEN" value="projectToken"/>
+    <add key="API_KEY" value="apiKey"/>
+</appSettings>
+```
+
 ## Sample code
 
 ```

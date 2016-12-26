@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixPanelCSharp", "MixPanelCSharp\MixPanelCSharp.csproj", "{036831C8-7F37-4080-A81E-A39AB0A7D85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixPanelCSharpDemo", "MixPanelCSharpDemo\MixPanelCSharpDemo.csproj", "{0F79234E-9301-4F0C-B3FF-5C983C458C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036831C8-7F37-4080-A81E-A39AB0A7D85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036831C8-7F37-4080-A81E-A39AB0A7D85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036831C8-7F37-4080-A81E-A39AB0A7D85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036831C8-7F37-4080-A81E-A39AB0A7D85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F79234E-9301-4F0C-B3FF-5C983C458C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F79234E-9301-4F0C-B3FF-5C983C458C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F79234E-9301-4F0C-B3FF-5C983C458C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F79234E-9301-4F0C-B3FF-5C983C458C32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
